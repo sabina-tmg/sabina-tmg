@@ -1,8 +1,8 @@
-# Hi there, I'm [Sabina tamang] 👋
+# Hi,👋 I'm Sabina Tamang
 
-Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast. Here you'll find some of the projects I've been working on, including my restaurant management system and task management application.
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast.
 
-## About Me
+ 👯 About Me
 
 - 🌱 I’m currently learning and building projects using Python and Django.
 - 👯 I’m looking to collaborate on open-source projects.
