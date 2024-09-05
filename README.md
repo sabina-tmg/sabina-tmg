@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with improving my full-stack development skills.
 - 💬 Ask me about web development, Python, and Django.
-- 📫 How to reach me: [syangtansabina8@gmail.com]
 - ⚡ Fun fact: I love experimenting with new recipes and cuisines!
 
 
