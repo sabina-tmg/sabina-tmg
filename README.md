@@ -1,14 +1,14 @@
-<!-- Centered Welcome Title -->
+<!-- Animated Typing Banner First (Backend Developer in Red) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=5000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=60&lines=Backend+Developer" alt="slow backend developer typing"/>
+</p>
+
+<!-- Welcome Title After -->
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <!-- Backend Role Badge -->
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Developer-Python%20%26%20Django-blueviolet?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-<!-- Slow Motion Typing Banner in Red -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=5000&pause=1000&color=FF0000&center=true&vCenter=true&width=800&height=60&lines=Backend+Developer" alt="slow backend developer typing"/>
 </p>
 
 <!-- Profile Intro -->
