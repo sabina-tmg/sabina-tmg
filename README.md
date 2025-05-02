@@ -8,7 +8,7 @@
 
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=000000&vCenter=true&width=800&height=60&lines=Backend+Developer+using+Python+%26+Django;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=000000&vCenter=true&width=800&height=60&lines=Backend+Developer+%26+Django;" alt="Typing SVG" />
 </p>
 
 <!-- Profile Intro -->
